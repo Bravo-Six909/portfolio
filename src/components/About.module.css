@@ -1,0 +1,65 @@
+.about{
+    text-align: center;
+    margin: 10rem 0;
+    margin: 1rem;
+}
+
+.about_head > h1{
+    font-size: 4rem;
+    margin: 1rem 0;
+    color: #48dbfb;
+}
+
+.about_head > p{
+    line-height: 1.5rem;
+}
+
+.about_me{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.about_pic > img{
+    height: 20rem;
+    width: 25rem;
+    flex: 0.5;
+    animation: translateimg 5s linear infinite;
+}
+
+.about_para{
+    flex: 0.5;
+    text-align: left;
+}
+
+.about_para > h1{
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    color: #48dbfb;
+
+}
+
+.about_para > p{
+    line-height: 1.5rem;
+}
+
+
+
+
+.btn{
+    text-transform: uppercase;
+    margin: 2rem 2rem;
+    border: none;
+    padding: 0.5rem;
+    color: #2196f3;
+    background-color: white;
+    transition: 0.2s;
+  }
+  
+  .btn:hover{
+    color: white;
+    background: #2196f3;
+    box-shadow: 0 0 5px #2196f3,0 0 20px #2196f3,0 0 40px #2196f3;
+  }
+  

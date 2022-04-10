@@ -1,0 +1,31 @@
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .circle{
+    height: 5rem;
+    width: 5rem;
+    border: 0.7rem solid #57abe4;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .circle i{
+    font-size: 2rem;
+    color: #25CCF7;
+  }
+  
+  .circle:hover{
+    background-color: #c5deee;
+    
+  }
+  
+  .up{
+    text-decoration: none;
+  }
+  

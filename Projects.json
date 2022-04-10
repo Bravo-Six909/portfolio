@@ -1,0 +1,59 @@
+[
+    {
+        "id" : 1,
+        "color":"#4834d4",
+        "imageURL":"https://media.istockphoto.com/vectors/user-experience-pop-up-windows-and-notifications-of-different-and-vector-id1179661123?k=20&m=1179661123&s=612x612&w=0&h=2gvB-oLzIYZ6rLudo9HtUAIafEvDMQAo1N_ZlsPiXVA=" , "name":"Portfolio Website",
+        "info":"This is my portfolio website which tells everything about me. ",
+        "span1" :"MaterialUI",
+        "span2" :"Javascript",
+        "span3" :"React Icon",
+        "span4" :"ReactJS"
+    },
+    {
+        "id" : 2,
+        "color":"#f368e0",
+        "imageURL":"https://api.backlinko.com/app/uploads/2020/08/instagram-users-post-banner-960x502.webp", "name":"Instagram Clone",
+        "info":"Instagram Clone for Educational purposes.",
+        "span1" :"NextJS",
+        "span2" :"Firebase",
+        "span3" :"MaterialUI",
+        "span4" :"Tailwind"
+    },
+    {
+        "id" : 3,
+        "color":"#1dd1a1",
+        "imageURL":"https://cdn.vox-cdn.com/thumbor/oxvf21zCP7ZiEtojBaWxrMIDSSg=/0x0:2040x1360/920x613/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69560014/acastro_210119_1777_whatsapp_0002.0.jpg", "name":"Whatsapp Clone",
+        "info":"Its a realtime one on one chat application with Google authentication.",
+        "span1" :"NextJS",
+        "span2" :"Firebase",
+        "span3" :"Chat",
+        "span4" :"Tailwind"
+    },
+    {
+        "id" : 4,
+        "color":"#2bcbba",
+        "imageURL":"https://image.freepik.com/free-vector/weather-concept-illustration_114360-1234.jpg", "name":"Weather App",
+        "info":"Tracking the realtime weather using OpenWeather API. ",
+        "span1" :"ReactJS",
+        "span2" :"OpenWeatherAPI",
+        "span3" :"MaterialUI"
+    },
+    {
+        "id" : 5,
+        "color":"#6c5ce7",
+        "imageURL":"https://image.freepik.com/free-vector/journalistis-reporters-news-media-isometric-illustrations-set_1284-59699.jpg", "name":"Daily Khabar",
+        "info":"It's a news web app which gives latest news as per categories.",
+        "span1" :"ReactJS",
+        "span2" :"News API",
+        "span3" :"React Icon",
+        "span4" :"React Bootstrap"
+    },
+    {
+        "id" : 6,
+        "color":"#fa8231",
+        "imageURL":"https://image.freepik.com/free-vector/journalistis-reporters-news-media-isometric-illustrations-set_1284-59699.jpg", "name":"Covinf",
+        "info":"It is a covid-19 tracker web-app.Give latest data on covid worldwide.",
+        "span1" :"NextJS",
+        "span2" :"Covid API"
+    }
+]
