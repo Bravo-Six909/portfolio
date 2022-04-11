@@ -1,12 +1,14 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 import "./Card.css";
+import Ripples from 'react-ripples'
 
 const ProjectCard = (props) => {
     return (
         <>
             <div className="container">
-                <div className="card">
+        <Ripples color={props.color} during={1200} className="card">
+                <div>
         <a href={props.url} target="_blank">
                     <img src={props.imgurl} alt="Img"></img>
                         </a>
@@ -22,6 +24,7 @@ const ProjectCard = (props) => {
                         }
                     </div>
                 </div>
+            </Ripples>
             </div>
         </>
     )

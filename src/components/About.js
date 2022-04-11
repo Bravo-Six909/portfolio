@@ -17,10 +17,9 @@ const About = () => {
                         <div className="about_para">
                             <h1>Let Me Introduce Myself</h1>
                             <p>I'm a student in the department computer science and engineering. I have knowledge about Java and
-                                python.
-                                Currently I'm in Front- end development and learning NextJS. My primary intrest lies in software
-                                development and machine learning.</p>
-                            {/* <button className="btn">Download Resume</button> */}
+                                Javascript.
+                                Currently I'm in Front- end development and learning NextJS and NodeJS. My primary intrest lies in software
+                                development.</p>
                         </div>
                     </div>
                     <h2 className="skills_head">Skills</h2>
